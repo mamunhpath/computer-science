@@ -15,6 +15,7 @@ Alternatively, you could [contribute](#CONTRIBUTING.md) an answer yourself.
 - [Why do you recommend skipping the second half of CS50?](#why-do-you-recommend-skipping-the-second-half-of-cs50)
 - [Why doesn't the curriculum cover/ignore topic X?](#why-doesnt-the-curriculum-coverignore-topic-x)
 - [Why is the curriculum missing some pre-requisites?](#why-is-the-curriculum-missing-some-pre-requisites)
+- [Why is the Firebase OSSU app different/broken?](#why-is-the-firebase-ossu-app-different-or-broken)
 
 ## Questions
 
@@ -47,7 +48,7 @@ Yes, because we have to draw a line.
 As soon as we require paid resources in the main curriculum, we might as well tell people to pay half a million dollars to attend a university.
 We are an Internet-based community of learners, not a business, so free is the most sensible price and ensures that the only price you need pay is the price of Internet access.
 
-At the same time, we recognize that education is scarce resource and therefore requires payment to instructors to make it sustainable in the long term.
+At the same time, we recognize that education is a scarce resource and therefore requires payment to instructors to make it sustainable in the long term.
 Therefore, we respect the business model of websites like edX, which make their materials free but with some paid add-ons, like official certificates or extra interaction with course instructors.
 
 So we only require that the *learning materials* of a resource be free to access, not that every possible add-on be free.
@@ -74,11 +75,10 @@ The [Software Development](https://www.edx.org/micromasters/software-development
 ### Why do you recommend skipping the second half of CS50?
 
 The strongest and most useful part of CS50 is the part where they teach C.
-We wish to retain this in the curriculum for now because it is one of the few chances the student has to play with manual memory management in a (relatively) low-level language.
-Everything after that gets a bit too easy and shallow, to the point that we believe the student's time will be better spent in MIT's Introduction to Computer Science course.
+We are retaining this in the curriculum for now because it is one of the few chances the student has to play with manual memory management in a (relatively) low-level language.
+By learning C, students will also have a much easier time getting through the following course, Nand2Tetris.
 
 That being said, feel free to finish CS50 if you like it and want to.
-But don't skip the MIT Intro course.
 
 ### Why doesn't the curriculum cover/ignore topic X?
 
@@ -100,3 +100,11 @@ Without these assumptions, the curriculum would be out of control with trying to
 But those who for whatever reason didn't get all the way through high school math and physics are in luck: you can find the content you need on [Khan Academy](https://www.khanacademy.org/).
 
 Of course, if you find that the curriculum is missing a pre-requisite for a course that isn't part of a normal high school curriculum, please let us know!
+
+### Why is the Firebase OSSU app different or broken?
+
+The OSSU curriculum and ecosystem have been collaboratively built by many individuals. The Firebase app was one such contribution. When it was written, it was with the intention of helping future OSSU students.
+
+Unfortunately, the app has not been updated in many years. It does not reflect updates to the curriculum, it contains links to courses that no longer exist, and it has known bugs that prevent students from loggining in.
+
+It is our hope that the creators of the Firebase app can bring the app up to date. Until that time, the firebase app should be considered a deprecated product that is no longer supported.

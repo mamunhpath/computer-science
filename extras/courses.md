@@ -12,8 +12,14 @@ Courses | Duration | Effort
 [Introduction to Computer Science (Udacity)](https://www.udacity.com/course/intro-to-computer-science--cs101)| 7 weeks | 10-20 hours/week
 [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1)| 5 weeks | -
 [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2)| - | -
+[Computing In Python, Part I: Fundamentals and Procedural Programming](https://www.edx.org/course/computing-in-python-i-fundamentals-and-procedural-programming-0) | 5 weeks | 10 hours/week
+[Computing In Python, Part II: Control Structures](https://www.edx.org/course/computing-in-python-ii-control-structures-0) | 5 weeks | 10 hours/week
+[Computing In Python, Part III: Data Structures](https://www.edx.org/course/computing-in-python-iii-data-structures-0) | 5 weeks | 10 hours/week
+[Computing In Python, Part IV: Objects & Algorithms](https://www.edx.org/course/computing-in-python-iv-objects-algorithms-0) | 5 weeks | 10 hours/week
 [Programming Basics](https://www.edx.org/course/programming-basics-iitbombayx-cs101-1x)| 9 weeks | 8 hours/week
 [Object-Oriented Programming](https://www.edx.org/course/object-oriented-programming-iitbombayx-cs101-2x)| 4 weeks | 8 hours/week
+[Object-Oriented Programming with Java (Part 1)](http://mooc.fi/courses/2013/programming-part-1/)| 6 weeks | -
+[Object-Oriented Programming with Java (Part 2)](http://mooc.fi/courses/2013/programming-part-2/)| 6 weeks | -
 [Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab)| - | -
 [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)| 7 weeks | 4-6 hours/week
 [The Structure and Interpretation of Computer Programs](http://cs61a.org/) | - | -
@@ -27,11 +33,15 @@ Courses | Duration | Effort
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 10 hours/week
 [Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro)| - | -
 [Linear Algebra (Strang)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) | - | -
+[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | 13 weeks | 12 hours/week
 
 ## Systems
 
 Courses | Duration | Effort
 :-- | :--: | :--:
+[Cloud Computing / Distributed Programming](https://www.coursera.org/learn/cloud-computing) | 5 weeks | 5-10 hours/week
+[Intro to Computer Systems](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f15/www/) ([Labs](http://csapp.cs.cmu.edu/3e/labs.html)) | 15 weeks | 12 hours/week
+[Great Ideas in Computer Architecture (Machine Structures)](https://inst.eecs.berkeley.edu/~cs61c/fa14/) ([Lectures](https://archive.org/details/ucberkeley_webcast_itunesu_915550404)) | 15 weeks | 12 hours/week
 [Computer Architecture](https://www.coursera.org/learn/comparch) | - | 5-8 hours/week
 [Operating System Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/) | - | -
 [Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| 8 weeks | 5-8 hours/week
@@ -66,6 +76,14 @@ Courses | Duration | Effort
 [Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x-0)| 5 weeks | 7-10 hours/week
 [Processing Big Data with Azure HDInsight](https://www.edx.org/course/processing-big-data-azure-hdinsight-microsoft-dat202-1x-0)| 5 weeks | 3-4 hours/week
 [Big Data Science with the BD2K-LINCS Data Coordination and Integration Center](https://www.coursera.org/course/bd2klincs)| 7 weeks | 4-5 hours/week
+
+## Tools
+
+Courses | Duration | Effort
+:-- | :--: | :--:
+[How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) | 3 weeks | 2-3 hours/week
+[Kubernetes Certified Application Developer](https://www.udemy.com/course/certified-kubernetes-application-developer/) | 5 weeks | 2 hours/week
+
 
 # Online Learning - Great Courses
 
